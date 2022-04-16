@@ -10,13 +10,16 @@ img {
   margin: auto;
   display: block;
 }
-
-nav.link {
+nav {
+  text-align: center;
+}
+nav a {
   text-align: center;
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
 }
+
 figcaption {
   text-align: center;
 }
